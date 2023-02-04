@@ -1,0 +1,15 @@
+c:\Users\SPasapula\Desktop\Entity Framework PPM\PPM.IEntityOperation\bin\Debug\net7.0\PPM.IEntityOperation.deps.json
+c:\Users\SPasapula\Desktop\Entity Framework PPM\PPM.IEntityOperation\bin\Debug\net7.0\PPM.IEntityOperation.dll
+c:\Users\SPasapula\Desktop\Entity Framework PPM\PPM.IEntityOperation\bin\Debug\net7.0\PPM.IEntityOperation.pdb
+c:\Users\SPasapula\Desktop\Entity Framework PPM\PPM.IEntityOperation\bin\Debug\net7.0\PPM.MODEL.dll
+c:\Users\SPasapula\Desktop\Entity Framework PPM\PPM.IEntityOperation\bin\Debug\net7.0\PPM.MODEL.pdb
+c:\Users\SPasapula\Desktop\Entity Framework PPM\PPM.IEntityOperation\obj\Debug\net7.0\PPM.IEntityOperation.csproj.AssemblyReference.cache
+c:\Users\SPasapula\Desktop\Entity Framework PPM\PPM.IEntityOperation\obj\Debug\net7.0\PPM.IEntityOperation.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\SPasapula\Desktop\Entity Framework PPM\PPM.IEntityOperation\obj\Debug\net7.0\PPM.IEntityOperation.AssemblyInfoInputs.cache
+c:\Users\SPasapula\Desktop\Entity Framework PPM\PPM.IEntityOperation\obj\Debug\net7.0\PPM.IEntityOperation.AssemblyInfo.cs
+c:\Users\SPasapula\Desktop\Entity Framework PPM\PPM.IEntityOperation\obj\Debug\net7.0\PPM.IEntityOperation.csproj.CoreCompileInputs.cache
+c:\Users\SPasapula\Desktop\Entity Framework PPM\PPM.IEntityOperation\obj\Debug\net7.0\PPM.IEntityOperation.csproj.CopyComplete
+c:\Users\SPasapula\Desktop\Entity Framework PPM\PPM.IEntityOperation\obj\Debug\net7.0\PPM.IEntityOperation.dll
+c:\Users\SPasapula\Desktop\Entity Framework PPM\PPM.IEntityOperation\obj\Debug\net7.0\refint\PPM.IEntityOperation.dll
+c:\Users\SPasapula\Desktop\Entity Framework PPM\PPM.IEntityOperation\obj\Debug\net7.0\PPM.IEntityOperation.pdb
+c:\Users\SPasapula\Desktop\Entity Framework PPM\PPM.IEntityOperation\obj\Debug\net7.0\ref\PPM.IEntityOperation.dll
